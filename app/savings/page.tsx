@@ -4,7 +4,7 @@ export default function savings() {
   return (
     <>
       <div>2 + 2 = {2 + 2}</div>
-      <Link href="/savings">Savings</Link>
+      <Link href="/">Home</Link>
     </>
   );
 }
