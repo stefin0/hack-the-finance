@@ -8,6 +8,7 @@ export default function Home() {
       <h1 className="text-center mt-8 font-extrabold">
         Hack The Money...Hacking...
       </h1>
+      <p>This is a paragraph.</p>
     </main>
   );
 }
