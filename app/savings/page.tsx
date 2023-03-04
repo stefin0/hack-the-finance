@@ -11,6 +11,7 @@ export default function savings() {
           Home
         </Link>
       </div>
+
     </>
   );
 }
