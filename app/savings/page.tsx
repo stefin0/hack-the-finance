@@ -4,7 +4,7 @@ import Link from "next/link";
 import React, { useState } from "react";
 
 export default function savings() {
-  const [firstName, setFirstName] = useState();
+  const [firstName, setFirstName] = useState(String);
 
   console.log(firstName);
   return (
