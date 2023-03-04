@@ -4,7 +4,7 @@ export default function DailyBudget() {
   return (
     <>
       <h1 className="text-center mt-8 font-extrabold">
-        This is the Budget page.
+        This is the Marco's page yktv.
       </h1>
       <div className="flex justify-center">
         <Link href="" className="bg-slate-700 p-3 rounded mx-2">
