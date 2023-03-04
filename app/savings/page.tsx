@@ -1,3 +1,3 @@
 export default function savings() {
-  return <div>this is the savings page!</div>;
+  return <div>2 + 2 = {2 + 2}</div>;
 }
