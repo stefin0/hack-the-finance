@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <h1 className="text-center mt-8 font-extrabold">
-        Hack The Finance...Hacking...
+        Hack The Money...Hacking...
       </h1>
     </main>
   );
