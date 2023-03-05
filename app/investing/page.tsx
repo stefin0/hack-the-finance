@@ -11,6 +11,14 @@ export default function investing() {
           Home
         </Link>
       </div>
+   <form>
+    <fieldset>
+      <legend>Get a feel for the UX here:</legend>
+      <label>Enter any number: <input name="number" type="number" step="any" required/></label> 
+       <label>Enter any integer: <input name="integer" type="number" step="1" required/></label>
+      <label>Submit: <input name="submitter" type="submit"/></label>
+   </fieldset>
+  </form>
     </>
   );
 }
